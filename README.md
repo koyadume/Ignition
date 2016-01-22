@@ -1,5 +1,5 @@
 # Ignition
-Java based ultra lightweight server designed specially for piston which will support http (2) and Custom (binary) protocols.
+Java based ultra lightweight server designed specially for piston which will support http (2) and custom (binary) protocols.
 
 <img src="https://docs.google.com/drawings/d/1sGlPFTa2lpl3MMZ5WBfYvgsGkos5ZBCbdTLqpo0sbwo/pub?w=480&amp;h=360">
 
